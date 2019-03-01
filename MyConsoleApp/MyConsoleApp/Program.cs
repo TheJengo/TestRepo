@@ -10,6 +10,8 @@ namespace MyConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, GitHub & Medium!");
+            Console.ReadKey();
         }
     }
 }
